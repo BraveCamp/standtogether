@@ -1,0 +1,89 @@
+.brand-heading{
+  color: white;
+}
+
+.intro-text{
+  color: Black;
+}
+
+.color-background{
+  background-color: #A89B8C;
+}
+
+.lift-page{
+  top: -100px;
+  position:relative;
+  color: black;
+  
+}
+
+.link-survey{
+  display: inline-block;
+  padding: 25px 50px;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  color: red;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 10px #000000
+}
+.link-survey{
+  margin-bottom: 30px;
+  margin-left: 150px;
+}
+.link-survey:hover{background-color: white;}
+.link-survey:active{
+  background-color: white;
+  box-shadow: 0 10px #000000;
+  transform: translateY(4px);
+}
+
+.content-section{
+  top: 180px;
+  position: relative;
+
+}
+
+.link-game{
+  display: inline-block;
+  padding: 25px 50px;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  color: red;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px #000000
+}
+.link-game{
+  margin-right: 150px;
+}
+.link-game:hover{background-color: white;}
+.link-game:active{
+  background-color: white;
+  box-shadow: 0 10px #000000;
+  transform: translateY(4px);
+}
+
+.text-center{
+  background-color: #A89B8C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

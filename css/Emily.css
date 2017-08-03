@@ -1,0 +1,37 @@
+#scoreboard {
+
+  position:relative;
+  left: -300px;
+  border: 1px solid #42DCA3;
+  width:250px;
+  height:700px;
+  overflow: auto;
+  top:50px;
+
+}
+
+#game {
+
+  position:relative;
+  left: -50px;
+  bottom:650px;
+  border: 1px solid #42DCA3;
+  width:1000px;
+  height:700px;
+}
+
+#points {
+
+
+}
+
+#demo {}
+
+.great {
+color:black;
+
+}
+
+#Thegame {
+  background-color:black;
+}

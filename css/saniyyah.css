@@ -1,0 +1,23 @@
+.Survey{
+  background-image: url("https://www.edutopia.org/sites/default/files/styles/responsive_2880px/public/cover_media/spiegler-169hero-idbully-istock.jpg?itok=D49SOlyQ&timestamp=1477081850");
+  background-size: 1200px 850px;
+  background-repeat: no-repeat;
+  padding-bottom:200px;
+  width:1200px;
+}
+
+.Survey{
+  <a href= "http://www.google.com"><button type="button">Start!</button></a>
+}
+
+.Button {
+    background-color:#A89B8C;  /*Gray*/
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    width:200px;
+    height:100px;
+}
